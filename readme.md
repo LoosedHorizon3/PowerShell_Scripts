@@ -1,0 +1,1 @@
+This is a repositry for all the powershell scripts I have currently made to date that I use in my day to day
